@@ -212,7 +212,7 @@ Software and Information Systems Engineering Student
 Ben-Gurion University of the Negev
 
 * GitHub: [https://github.com/NathanLivshitz](https://github.com/NathanLivshitz)
-* LinkedIn: Add your LinkedIn URL here
+* LinkedIn: https://www.linkedin.com/in/nathan-livshitz-079b54189/
 
 ---
 
